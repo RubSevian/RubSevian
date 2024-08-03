@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubSevian&theme=buefy&layout=compact"/>](https://github.com/RubSevian/)
 <!--
 **RubSevian/RubSevian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
